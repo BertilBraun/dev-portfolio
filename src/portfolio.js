@@ -67,7 +67,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "TypeScript",
-      fontAwesomeClassname: "fab fa-ts"
+      fontAwesomeClassname: "fab fa-code"
     },
     {
       skillName: "reactjs",
@@ -97,6 +97,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
     /* {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
@@ -120,10 +124,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Java",
       fontAwesomeClassname: "fas fa-code"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -136,7 +136,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Gottlieb Daimler Schule 1",
-      // TODO logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/img/gds1.jfif"),
       subHeader: "Abitur (A-Level)",
       duration: "September 2017 - April 2020",
       desc: "Ranked as one of the best students in the school and finished with a grade of A-",
@@ -144,7 +144,7 @@ const educationInfo = {
     },
     {
       schoolName: "Universität Karlsruhe, KIT",
-      // TODO logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/img/kit.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2020 - April 2023",
       desc: "Took courses about Software Engineering, Operating Systems, Algorithm Engineering, ...",
@@ -159,6 +159,10 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
+      Stack: "Programming",
+      progressPercentage: "95%"
+    },
+    {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
       progressPercentage: "60%" //Insert relative proficiency in percentage
     },
@@ -166,10 +170,6 @@ const techStack = {
       Stack: "Backend",
       progressPercentage: "90%"
     },
-    {
-      Stack: "Programming",
-      progressPercentage: "95%"
-    }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -183,14 +183,14 @@ const workExperiences = {
     {
       role: "Academic Software Engineer assistant",
       company: "KIT",
-      // TODO companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/img/kit.png"),
       date: "Feb 2022 – May 2022",
       desc: "Research and development of a new GUI application Framework for the KIT University"
     },
     {
       role: "Software Engineer",
       company: "My Cabin",
-      // TODO companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/img/Logo-mycabin.png"),
       date: "June 2020 – October 2020",
       desc: "MyCabin is an impact startup from Konstanz, which by arranging near-natural overnight accommodation enables sustainable and natural travel and revolutionizes soft tourism",
       descBullets: [
@@ -201,7 +201,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Hoffmann Räumtechnik GmbH",
-      // TODO companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/img/hoffmann-rt-logo.svg"),
       date: "June 2018 – July 2019",
       desc: "Intern at Hoffmann Räumtechnik GmbH in the construction area",
       descBullets: [
@@ -217,7 +217,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
