@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/development-portfolio/static/css/main.eb38db1b.chunk.css",
-    "main.js": "/development-portfolio/static/js/main.874f8e0b.chunk.js",
-    "main.js.map": "/development-portfolio/static/js/main.874f8e0b.chunk.js.map",
+    "main.js": "/development-portfolio/static/js/main.274942f4.chunk.js",
+    "main.js.map": "/development-portfolio/static/js/main.274942f4.chunk.js.map",
     "runtime-main.js": "/development-portfolio/static/js/runtime-main.989b338e.js",
     "runtime-main.js.map": "/development-portfolio/static/js/runtime-main.989b338e.js.map",
     "static/js/2.cf49cc0a.chunk.js": "/development-portfolio/static/js/2.cf49cc0a.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.d520c009.chunk.js": "/development-portfolio/static/js/4.d520c009.chunk.js",
     "static/js/4.d520c009.chunk.js.map": "/development-portfolio/static/js/4.d520c009.chunk.js.map",
     "index.html": "/development-portfolio/index.html",
-    "precache-manifest.f209eb856394103bf320c98a548bc46d.js": "/development-portfolio/precache-manifest.f209eb856394103bf320c98a548bc46d.js",
+    "precache-manifest.550d61eeb6c043fcc24935b069741e2e.js": "/development-portfolio/precache-manifest.550d61eeb6c043fcc24935b069741e2e.js",
     "service-worker.js": "/development-portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/development-portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/development-portfolio/static/css/4.e91a4b36.chunk.css.map",
@@ -26,7 +26,6 @@
     "static/media/developerActivity.svg": "/development-portfolio/static/media/developerActivity.59389695.svg",
     "static/media/gds1.jfif": "/development-portfolio/static/media/gds1.88700c0c.jfif",
     "static/media/googleAssistantLogo.webp": "/development-portfolio/static/media/googleAssistantLogo.e79c6392.webp",
-    "static/media/hoffmann.png": "/development-portfolio/static/media/hoffmann.f7600314.png",
     "static/media/kitchenbang.png": "/development-portfolio/static/media/kitchenbang.38c5e925.png",
     "static/media/manOnTable.svg": "/development-portfolio/static/media/manOnTable.52be3144.svg",
     "static/media/mycabin.png": "/development-portfolio/static/media/mycabin.9607ac6d.png",
@@ -39,6 +38,6 @@
     "static/js/runtime-main.989b338e.js",
     "static/js/2.cf49cc0a.chunk.js",
     "static/css/main.eb38db1b.chunk.css",
-    "static/js/main.874f8e0b.chunk.js"
+    "static/js/main.274942f4.chunk.js"
   ]
 }
