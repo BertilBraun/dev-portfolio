@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2883c2ea93a18015bf89685df725c99e",
+    "revision": "8c2930908f930f3f772bc9024bdf024d",
     "url": "/development-portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/development-portfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "9135529dd8c05c3dc697",
+    "revision": "2ff863504e575e0bedab",
     "url": "/development-portfolio/static/css/main.eb38db1b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/development-portfolio/static/js/4.d520c009.chunk.js"
   },
   {
-    "revision": "9135529dd8c05c3dc697",
-    "url": "/development-portfolio/static/js/main.be422291.chunk.js"
+    "revision": "2ff863504e575e0bedab",
+    "url": "/development-portfolio/static/js/main.995a7fdf.chunk.js"
   },
   {
     "revision": "85cff7ed122cf0a182d5",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/development-portfolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "e18918c2d6cca1ca1e7ab19d2c7e8408",
-    "url": "/development-portfolio/static/media/hoffmann-rt-logo.e18918c2.svg"
+    "revision": "1bfa0e0236f52bd0dce03a0ab2d20d88",
+    "url": "/development-portfolio/static/media/hoffmann-rt-logo.1bfa0e02.svg"
   },
   {
     "revision": "38c5e925df4a7df82d0babea0e582106",
