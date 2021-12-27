@@ -169,7 +169,7 @@ const techStack = {
     {
       Stack: "Backend",
       progressPercentage: "90%"
-    },
+    }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -190,7 +190,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "My Cabin",
-      companylogo: require("./assets/img/Logo-mycabin.png"),
+      companylogo: require("./assets/img/mycabin.png"),
       date: "June 2020 – October 2020",
       desc: "MyCabin is an impact startup from Konstanz, which by arranging near-natural overnight accommodation enables sustainable and natural travel and revolutionizes soft tourism",
       descBullets: [
@@ -201,7 +201,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Hoffmann Räumtechnik GmbH",
-      companylogo: require("./assets/img/hoffmann-rt-logo.svg"),
+      companylogo: require("./assets/img/hoffmann.png"),
       date: "June 2018 – July 2019",
       desc: "Intern at Hoffmann Räumtechnik GmbH in the construction area",
       descBullets: [
