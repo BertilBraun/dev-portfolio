@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c2930908f930f3f772bc9024bdf024d",
+    "revision": "a7356f0df827bd6474e78527cdce264c",
     "url": "/development-portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/development-portfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "2ff863504e575e0bedab",
+    "revision": "295f82b6e76f93581ca6",
     "url": "/development-portfolio/static/css/main.eb38db1b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/development-portfolio/static/js/4.d520c009.chunk.js"
   },
   {
-    "revision": "2ff863504e575e0bedab",
-    "url": "/development-portfolio/static/js/main.995a7fdf.chunk.js"
+    "revision": "295f82b6e76f93581ca6",
+    "url": "/development-portfolio/static/js/main.e930eacc.chunk.js"
   },
   {
     "revision": "85cff7ed122cf0a182d5",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/development-portfolio/static/media/Agustina.21f233e1.woff"
-  },
-  {
-    "revision": "feabbf69375606ea63e63c89433d6b76",
-    "url": "/development-portfolio/static/media/Logo-mycabin.feabbf69.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -64,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/development-portfolio/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "116a36208d56485029cb527611bde9ef",
-    "url": "/development-portfolio/static/media/gds1.116a3620.jfif"
+    "revision": "88700c0ca99922cdbd81cbb522cbda0c",
+    "url": "/development-portfolio/static/media/gds1.88700c0c.jfif"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/development-portfolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "1bfa0e0236f52bd0dce03a0ab2d20d88",
-    "url": "/development-portfolio/static/media/hoffmann-rt-logo.1bfa0e02.svg"
+    "revision": "f760031498682f4a1d8114889c3e2d66",
+    "url": "/development-portfolio/static/media/hoffmann.f7600314.png"
   },
   {
     "revision": "38c5e925df4a7df82d0babea0e582106",
@@ -82,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/development-portfolio/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "9607ac6d88bb64b47e450239d4fa128c",
+    "url": "/development-portfolio/static/media/mycabin.9607ac6d.png"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",

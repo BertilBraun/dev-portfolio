@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/development-portfolio/static/css/main.eb38db1b.chunk.css",
-    "main.js": "/development-portfolio/static/js/main.995a7fdf.chunk.js",
-    "main.js.map": "/development-portfolio/static/js/main.995a7fdf.chunk.js.map",
+    "main.js": "/development-portfolio/static/js/main.e930eacc.chunk.js",
+    "main.js.map": "/development-portfolio/static/js/main.e930eacc.chunk.js.map",
     "runtime-main.js": "/development-portfolio/static/js/runtime-main.989b338e.js",
     "runtime-main.js.map": "/development-portfolio/static/js/runtime-main.989b338e.js.map",
     "static/js/2.cf49cc0a.chunk.js": "/development-portfolio/static/js/2.cf49cc0a.chunk.js",
@@ -14,22 +14,22 @@
     "static/js/4.d520c009.chunk.js": "/development-portfolio/static/js/4.d520c009.chunk.js",
     "static/js/4.d520c009.chunk.js.map": "/development-portfolio/static/js/4.d520c009.chunk.js.map",
     "index.html": "/development-portfolio/index.html",
-    "precache-manifest.9f307228834e2b6dd8c93729786ec75d.js": "/development-portfolio/precache-manifest.9f307228834e2b6dd8c93729786ec75d.js",
+    "precache-manifest.ef6ea69032d91b1884207b4caa2ea610.js": "/development-portfolio/precache-manifest.ef6ea69032d91b1884207b4caa2ea610.js",
     "service-worker.js": "/development-portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/development-portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/development-portfolio/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.eb38db1b.chunk.css.map": "/development-portfolio/static/css/main.eb38db1b.chunk.css.map",
     "static/js/2.cf49cc0a.chunk.js.LICENSE.txt": "/development-portfolio/static/js/2.cf49cc0a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/development-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Logo-mycabin.png": "/development-portfolio/static/media/Logo-mycabin.feabbf69.png",
     "static/media/codeInLogo.webp": "/development-portfolio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/development-portfolio/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/development-portfolio/static/media/developerActivity.59389695.svg",
-    "static/media/gds1.jfif": "/development-portfolio/static/media/gds1.116a3620.jfif",
+    "static/media/gds1.jfif": "/development-portfolio/static/media/gds1.88700c0c.jfif",
     "static/media/googleAssistantLogo.webp": "/development-portfolio/static/media/googleAssistantLogo.e79c6392.webp",
-    "static/media/hoffmann-rt-logo.svg": "/development-portfolio/static/media/hoffmann-rt-logo.1bfa0e02.svg",
+    "static/media/hoffmann.png": "/development-portfolio/static/media/hoffmann.f7600314.png",
     "static/media/kitchenbang.png": "/development-portfolio/static/media/kitchenbang.38c5e925.png",
     "static/media/manOnTable.svg": "/development-portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/mycabin.png": "/development-portfolio/static/media/mycabin.9607ac6d.png",
     "static/media/pwaLogo.webp": "/development-portfolio/static/media/pwaLogo.ee62cb58.webp",
     "static/media/pyro.png": "/development-portfolio/static/media/pyro.61e911a1.png",
     "static/media/skill.svg": "/development-portfolio/static/media/skill.34409398.svg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.989b338e.js",
     "static/js/2.cf49cc0a.chunk.js",
     "static/css/main.eb38db1b.chunk.css",
-    "static/js/main.995a7fdf.chunk.js"
+    "static/js/main.e930eacc.chunk.js"
   ]
 }
