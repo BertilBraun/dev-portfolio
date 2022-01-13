@@ -135,19 +135,19 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Gottlieb Daimler Schule 1",
-      logo: require("./assets/img/gds1.jfif"),
-      subHeader: "Abitur (A-Level)",
-      duration: "September 2017 - April 2020",
-      desc: "Ranked as one of the best students in the school and finished with a grade of A-",
-      descBullets: []
-    },
-    {
       schoolName: "Universität Karlsruhe, KIT",
       logo: require("./assets/img/kit.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2020 - April 2023",
       desc: "Took courses about Software Engineering, Operating Systems, Algorithm Engineering, ...",
+      descBullets: []
+    },
+    {
+      schoolName: "Gottlieb Daimler Schule 1",
+      logo: require("./assets/img/gds1.jfif"),
+      subHeader: "Abitur (A-Level)",
+      duration: "September 2017 - April 2020",
+      desc: "Ranked as one of the best students in the school and finished with a grade of A-",
       descBullets: []
     }
   ]
@@ -191,7 +191,7 @@ const workExperiences = {
       role: "Software Engineer",
       company: "My Cabin",
       companylogo: require("./assets/img/mycabin.png"),
-      date: "June 2020 – October 2020",
+      date: "June 2021 – October 2021",
       desc: "MyCabin is an impact startup from Konstanz, which by arranging near-natural overnight accommodation enables sustainable and natural travel and revolutionizes soft tourism",
       descBullets: [
         "Independent design and implementation of the internal administration tools for MyCabin",
