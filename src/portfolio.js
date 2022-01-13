@@ -67,7 +67,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "TypeScript",
-      fontAwesomeClassname: "fab fa-code"
+      fontAwesomeClassname: "fas fa-code"
     },
     {
       skillName: "reactjs",
