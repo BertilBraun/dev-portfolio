@@ -24,7 +24,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/BertilBraun",
-  linkedin: "https://www.linkedin.com/in/bertil-braun-342997212/",
+  linkedin: "https://www.linkedin.com/in/bertil-braun/",
   gmail: "bertil.braun.private@gmail.com",
   stackoverflow: "https://stackoverflow.com/users/16576166/bertil-braun",
   // Instagram, Twitter and Kaggle are also supported in the links!
